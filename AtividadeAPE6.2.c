@@ -42,7 +42,7 @@ float val104 = 13.25;
 			printf("\nO valor total ficou: %.2f\n", valort);
 			break;
 			case 104:
-				valort = quantidade * val103;
+				valort = quantidade * val104;
 			printf("\nO valor total ficou: %.2f\n", valort);
 			break;
 			
